@@ -31,12 +31,12 @@ Clone the repository:
 
   ```bash
   python -m venv venv-hitt-workout-creator
-  source venv/bin/activate
+  source venv-hitt-workout-creator/bin/activate
   ```
 
 ## On Windows use: 
   ```bash
-  venv\Scripts\activate.ps1
+  .\venv-hitt-workout-creator\Scripts\activate.ps1
    ```
 you also may need to run this command on certain windows systems to allow execution on current shell
 ```
