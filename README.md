@@ -63,5 +63,3 @@ Prepare a folder containing .mov files named after the exercise (e.g., push_ups.
 | --title  | No  | The main title text shown during the first 10 seconds. |
 | --out    | No  | The filename for the final rendered video (Default: hitt_session.mp4). |
 
-Example Usage:
-python hitt_workout_creator.py --folder ./videos --music track.wav --rounds 8 --title "Morning Shred"
