@@ -27,7 +27,7 @@ Clone the repository:
    cd hitt-workout-creator
   ```
 
-## Create and activate a virtual environment:Bash
+## Create and activate a virtual environment
 
   ```bash
   python -m venv venv-hitt-workout-creator
